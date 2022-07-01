@@ -14,6 +14,11 @@ const books = [
   }
 ]
 ```
+/*
+  I have to use a method where I can access "title" in both arrays
+  Title is index[0] and I need to use .getOwnPropertyName as well
+*/
+
 
 Your job is to write a function that takes the array and returns an array of titles:
 
